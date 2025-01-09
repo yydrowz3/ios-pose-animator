@@ -29,7 +29,7 @@ pod install
 
 ### demo video
 
-
+[demo video](https://drive.google.com/file/d/1uTr-EICMYXppJbLTBf2TVm8AK86G-y6H/view?usp=sharing)
 
 ## Model
 
