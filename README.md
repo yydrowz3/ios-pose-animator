@@ -2,6 +2,8 @@
 
 This is a mobile pose estimation application based on swift and CoreML.
 
+![screenshot2](./images/screenshot2.png)
+
 ![screenshot0](./images/screenshot0.png)
 
 This application outputs the stickman-like pose visualization results from resources:
@@ -14,14 +16,20 @@ This application outputs the stickman-like pose visualization results from resou
 ## Installation
 
 ```sh
-git clone 
-cd 
+git clone git@github.com:yydrowz3/ios-pose-animator.git
+cd ios-pose-animator
 pod install
 ```
 
 ## Demo
 
+### demo screenshots
+
 ![screenshot1](./images/screenshot1.png)
+
+### demo video
+
+
 
 ## Model
 
